@@ -31,7 +31,7 @@
         <commons.lang.version>3.9</commons.lang.version>
 
         <!-- Override Spring Version which cases issues -->
-        <version.com.fasterxml.jackson>2.9.8</version.com.fasterxml.jackson>
+        <version.com.fasterxml.jackson>2.11.0</version.com.fasterxml.jackson>
 
         <!-- Maven Plugins -->
         <compiler-plugin.version>3.7.0</compiler-plugin.version>
